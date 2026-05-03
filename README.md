@@ -23,4 +23,4 @@ Sistema orientado a objetos desarrollado en Python para la gestión de clientes,
 - GitHub
 
 ## Autor
-Javi Daniel
+Javid Daniel vega iseda
