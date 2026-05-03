@@ -1,0 +1,74 @@
+[2026-05-01 21:29:26] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:29:26] Documento asignado: 123456789
+[2026-05-01 21:29:26] Correo asignado: javi@gmail.com
+[2026-05-01 21:32:56] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:32:56] Documento asignado: 123456789
+[2026-05-01 21:32:56] Correo asignado: javi@gmail.com
+[2026-05-01 21:33:05] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:33:05] Documento asignado: 123456789
+[2026-05-01 21:33:05] Correo asignado: javi@gmail.com
+[2026-05-01 21:34:21] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:34:21] Documento asignado: 123456789
+[2026-05-01 21:34:21] Correo asignado: javi@gmail.com
+[2026-05-01 21:34:21] ERROR: horas inválidas para sala
+[2026-05-01 21:35:45] Nombre asignado correctamente: Javid vega
+[2026-05-01 21:35:45] Documento asignado: 123456789
+[2026-05-01 21:35:45] Correo asignado: javi@gmail.com
+[2026-05-01 21:35:55] Nombre asignado correctamente: Javid vega
+[2026-05-01 21:35:55] Documento asignado: 123456789
+[2026-05-01 21:35:55] Correo asignado: javi@gmail.com
+[2026-05-01 21:35:55] ERROR: horas inválidas para sala
+[2026-05-01 21:36:10] Nombre asignado correctamente: Javid vega
+[2026-05-01 21:36:10] Documento asignado: 123456789
+[2026-05-01 21:36:10] Correo asignado: javi@gmail.com
+[2026-05-01 21:36:10] ERROR: horas inválidas para sala
+[2026-05-01 21:40:09] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:40:09] Documento asignado: 123456789
+[2026-05-01 21:40:09] Correo asignado: javi@gmail.com
+[2026-05-01 21:40:09] Reserva confirmada para Javi Daniel
+[2026-05-01 21:40:09] Procesamiento realizado correctamente
+[2026-05-01 21:40:09] Finalizó intento de procesamiento
+[2026-05-01 21:40:53] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:40:53] Documento asignado: 123456789
+[2026-05-01 21:40:53] Correo asignado: javi@gmail.com
+[2026-05-01 21:40:53] ERROR RESERVA: La duración debe ser mayor a cero
+[2026-05-01 21:40:53] Finalizó intento de procesamiento
+[2026-05-01 21:42:58] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:42:58] Documento asignado: 123456789
+[2026-05-01 21:42:58] Correo asignado: javi@gmail.com
+[2026-05-01 21:42:58] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-01 21:42:58] ERROR: horas inválidas para sala
+[2026-05-01 21:42:58] ERROR: días inválidos
+[2026-05-01 21:42:58] ERROR: nivel inválido
+[2026-05-01 21:42:58] Reserva confirmada para Javi Daniel
+[2026-05-01 21:42:58] Procesamiento realizado correctamente
+[2026-05-01 21:42:58] Finalizó intento de procesamiento
+[2026-05-01 21:42:58] ERROR RESERVA: La duración debe ser mayor a cero
+[2026-05-01 21:42:58] Finalizó intento de procesamiento
+[2026-05-01 21:42:58] El sistema finalizó correctamente
+[2026-05-01 21:43:26] Nombre asignado correctamente: Javi Daniel
+[2026-05-01 21:43:26] Documento asignado: 123456789
+[2026-05-01 21:43:26] Correo asignado: javi@gmail.com
+[2026-05-01 21:43:26] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-01 21:43:26] ERROR: horas inválidas para sala
+[2026-05-01 21:43:26] ERROR: días inválidos
+[2026-05-01 21:43:26] ERROR: nivel inválido
+[2026-05-01 21:43:26] Reserva confirmada para Javi Daniel
+[2026-05-01 21:43:26] Procesamiento realizado correctamente
+[2026-05-01 21:43:26] Finalizó intento de procesamiento
+[2026-05-01 21:43:26] ERROR RESERVA: La duración debe ser mayor a cero
+[2026-05-01 21:43:26] Finalizó intento de procesamiento
+[2026-05-01 21:43:26] El sistema finalizó correctamente
+[2026-05-03 17:24:47] Nombre asignado correctamente: Javi Daniel
+[2026-05-03 17:24:47] Documento asignado: 123456789
+[2026-05-03 17:24:47] Correo asignado: javi@gmail.com
+[2026-05-03 17:24:47] ERROR CLIENTE: El nombre no puede estar vacío
+[2026-05-03 17:24:47] ERROR: horas inválidas para sala
+[2026-05-03 17:24:47] ERROR: días inválidos
+[2026-05-03 17:24:47] ERROR: nivel inválido
+[2026-05-03 17:24:47] Reserva confirmada para Javi Daniel
+[2026-05-03 17:24:47] Procesamiento realizado correctamente
+[2026-05-03 17:24:47] Finalizó intento de procesamiento
+[2026-05-03 17:24:47] ERROR RESERVA: La duración debe ser mayor a cero
+[2026-05-03 17:24:47] Finalizó intento de procesamiento
+[2026-05-03 17:24:47] El sistema finalizó correctamente
